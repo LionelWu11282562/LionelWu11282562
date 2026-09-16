@@ -16,7 +16,7 @@
 
 ---
 
-## 01 / Start Here — Personal Website
+## 01 /Personal Website
 
 ### 🌐 [huanqiwu.com](https://huanqiwu.com)
 
@@ -42,19 +42,13 @@ My work broadly focuses on applying **statistical, computational, and machine-le
 ## 02 / Education & Academic Profile
 
 ### 🎓 University of Arizona
-**B.S. in Data Science — Bioinformatics Emphasis**  
+**B.S. in Data Science**  
 Department of Mathematics  
-Expected Graduation: **2027**
-
-### 🎓 Capital University of Economics and Business
-**B.S. in Statistics**  
-CUEB–University of Arizona Dual-Degree Program  
 Expected Graduation: **2027**
 
 ### Academic Recognition
 
 - **Dean's List**, University of Arizona
-- **GPA: 4.0**
 - Interdisciplinary training across statistics, data science, bioinformatics, public health, and computational research
 
 ### Research & Technical Skills
