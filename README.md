@@ -100,9 +100,6 @@
 
 <ul>
   <li>
-      Systolic Blood Pressure Among Middle-Aged and Older Chinese Adults
-  </li>
-  <li>
       The Obesity Paradox in States of Anxiety and Depression (Under Review)
   </li>
   <li>Factors associated with patients’ healthcare-seeking behavior and related clinical outcomes under China’s hierarchical healthcare delivery system (Published)</li>
@@ -160,7 +157,7 @@
 
 <div align="center">
 
-<h2>04 / Connect</h2>
+<h2>Connect</h2>
 
 <p>
   <a href="https://scholar.google.com/citations?user=tQUTvJQAAAAJ">Google Scholar</a>
