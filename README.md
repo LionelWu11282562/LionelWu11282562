@@ -24,14 +24,14 @@
 
 <div align="center">
 
-<h2>01 / Education & Skills</h2>
+<h2>Education & Skills</h2>
 
 </div>
 
 <h3>University of Arizona</h3>
 
 <p>
-  <strong>B.S. in Data Science — Bioinformatics Emphasis</strong><br>
+  <strong>B.S. in Data Science</strong><br>
   Expected Graduation: <strong>2027</strong>
 </p>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<h2>02 / Research</h2>
+<h2>Research</h2>
 
 <p><strong>Featured Projects</strong></p>
 
@@ -72,12 +72,6 @@
   Positive-Unlabeled learning for undiagnosed hypertension screening.
 </p>
 
-<p>
-  <a href="https://github.com/LionelWu11282562/A-Two-Stage-Probability-Stratified-Method-for-Ambiguous-Dataset-Optimization">
-    View Repository →
-  </a>
-</p>
-
 <h3>Budesonide in IgA Nephropathy</h3>
 
 <p>
@@ -87,7 +81,7 @@
 <h3>cfMethylFormer</h3>
 
 <p>
-  Transformer-based representation learning for cell-free DNA methylation.
+  Transformer-based(BERT) representation learning for cell-free DNA methylation.
 </p>
 
 <h3>ThermalVia</h3>
@@ -106,21 +100,15 @@
 
 <ul>
   <li>
-    <a href="https://github.com/LionelWu11282562/SystolicBlood-Pressure-Among-Middle-Agedand-Older-Chinese-Adults">
       Systolic Blood Pressure Among Middle-Aged and Older Chinese Adults
-    </a>
   </li>
   <li>
-    <a href="https://github.com/LionelWu11282562/The-impact-of-physical-indicators-on-anxiety-and-depression">
-      Adiposity, Anxiety & Depression
-    </a>
+      The Obesity Paradox in States of Anxiety and Depression (Under Review)
   </li>
-  <li>Healthcare-Seeking Behavior in China</li>
-  <li>Digital Therapeutics for Dementia Care</li>
+  <li>Factors associated with patients’ healthcare-seeking behavior and related clinical outcomes under China’s hierarchical healthcare delivery system (Published)</li>
+  <li>Understanding Healthcare Professionals’ Perspectives on Implementing Digital Therapeutics in Alzheimer’s Disease and Related Dementias: A Mixed-Methods Study in China (Under Review)</li>
   <li>
-    <a href="https://github.com/LionelWu11282562/The-heterogeneity-of-the-impact-of-local-government-financing-channels-on-the-industrial-structure">
-      Local Government Financing & Industrial Structure
-    </a>
+    Heterogeneous Effects of Local Government Financing Channels on Industrial Structure: Evidence from Provincial-Level Panel Data in China (Under Review)
   </li>
 </ul>
 
@@ -128,7 +116,7 @@
 
 <div align="center">
 
-<h2>03 / Experience</h2>
+<h2>Experience</h2>
 
 </div>
 
@@ -150,14 +138,14 @@
   <code>NCBI GEO</code>
 </p>
 
-<h3>Inn Capital / 约印医疗基金</h3>
+<h3>Inn Capital biomedical fund</h3>
 
 <p>
   <strong>Healthcare Investment Internship</strong>
 </p>
 
 <p>
-  Research across biotechnology, medical devices, IVD, intelligent medicine, and healthcare companies.
+  Focused on commercialization and market-entry strategies for biotechnology, medical device, IVD, and digital health companies.
 </p>
 
 <p>
